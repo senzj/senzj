@@ -21,9 +21,9 @@ Hi there!👋 My name is Jansen Lee
 Full Stack Developer
 --------------------
 
-* 🌍  I'm based in Manila, Philippines
+* 📍  Manila, Philippines
 * ✉️  You can contact me at [janseeeenleeee@gmail.com](mailto:janseeeenleeee@gmail.com)
-* 🧠  I'm learning laravel 11 and NextJS
+* 🧠  I'm currently learning Laravel 11 and NextJS
 
 ### Skills
 
