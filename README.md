@@ -23,7 +23,7 @@ Full Stack Developer
 
 * 📍  Manila, Philippines
 * ✉️  You can contact me at [janseeeenleeee@gmail.com](mailto:janseeeenleeee@gmail.com)
-* 🧠  I'm currently learning Laravel 11 and NextJS
+* 💻  Laravel 12
 
 ### Skills
 
