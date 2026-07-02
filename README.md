@@ -24,3 +24,6 @@ Hi there!👋 My name is Jansen Lee
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/senzj"><img src="https://github-readme-streak-stats.herokuapp.com/?user=senzj&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<b>Support Me<b>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W4L222FTY3)
